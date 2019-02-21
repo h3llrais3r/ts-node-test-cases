@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "christian-kohler.npm-intellisense",
+    "dbaeumer.vscode-eslint",
+    //"eg2.tslint", // Deprecated in favour of ms-vscode.vscode-typescript-tslint-plugin
+    "HookyQR.beautify",
+    "mikestead.dotenv",
+    "ms-vscode.vscode-typescript-tslint-plugin",
+    "xyz.local-history",
+    "Zignd.html-css-class-completion"
+  ]
+}

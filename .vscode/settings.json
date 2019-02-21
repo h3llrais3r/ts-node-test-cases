@@ -1,0 +1,24 @@
+{
+  // VS Code settings
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true, // Fix lint issues on save
+    "source.organizeImports": true
+  },
+  // File settings
+  "files.associations": {
+    "*.json": "jsonc" // Use json with comments by default
+  },
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "files.trimTrailingWhitespace": true,
+  // Html settings
+  "html.format.endWithNewline": true,
+  "html.format.wrapAttributes": "preserve-aligned",
+  // Javascript/Typescript settings
+  "javascript.preferences.quoteStyle": "single",
+  "typescript.preferences.quoteStyle": "single",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+}
